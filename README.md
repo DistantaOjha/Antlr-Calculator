@@ -20,7 +20,7 @@ java -cp .:antlr.jar Run
 
 **Calculator Features**
 
-- All basic arithematic operations.
+- All basic arithmatic operations.
 
 - Variable Storage
 
