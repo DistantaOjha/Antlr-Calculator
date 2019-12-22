@@ -17,3 +17,17 @@ java -jar antlr.jar Calculator.g4 -visitor
 javac -cp .:antlr.jar *.java
 
 java -cp .:antlr.jar Run
+
+**Calculator Features**
+
+- All basic arithematic operations.
+
+- Variable Storage
+
+- Supports scienfic and decimal numbers
+
+- Turnary Operations
+
+- List Storage with size functions and 0-based-index access to elements.
+
+
